@@ -108,6 +108,6 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 👤 Author
-Subhrank
+Devi Shankar
 
-GitHub: @subhrank09
+GitHub: @s-shukla01
