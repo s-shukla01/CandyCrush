@@ -82,7 +82,7 @@ Clone the repository
 
 Bash
 
-git clone [https://github.com/subhrank09/CANDYCRUSH.git](https://github.com/subhrank09/CANDYCRUSH.git)
+git clone [https://github.com/s-shukla01/CANDYCRUSH.git](https://github.com/s-shukla/CANDYCRUSH.git)
 Navigate to the project directory
 
 Bash
